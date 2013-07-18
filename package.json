@@ -10,12 +10,13 @@
     "mongodb": ">=0.9.9-4",
     "request": ">= 2.9.152",
     "jade": ">= 0.0.1",
+    "nodemon":"",
     "mongoose": ""
   },
   "scripts": {
     "start": "app.js"
   },
   "engines": {
-    "node": ">=0.8.x"
+    "node": "0.8.x"
   }
 }
