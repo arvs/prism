@@ -10,6 +10,8 @@
     "mongodb": ">=0.9.9-4",
     "request": ">= 2.9.152",
     "jade": ">= 0.0.1",
+    "superagent": ">=0.15.4",
+    "cheerio": ">0.12.0"
     "nodemon":"",
     "mongoose": ""
   },
